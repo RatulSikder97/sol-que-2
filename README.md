@@ -1,6 +1,6 @@
 # Change Value of allReads to false
 
-**Print a string n times without loop**
+**Change the value of allReads using JS higher order function**
 
 _All codes in app.js file_
 
